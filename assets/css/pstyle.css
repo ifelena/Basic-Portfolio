@@ -49,3 +49,9 @@
 	padding: 15px 30px 15px 15px;
 }
 
+.bottomright {
+	position: absolute;
+    bottom: : 8px;
+    left: 16px;
+    font-size: 18px;
+}
