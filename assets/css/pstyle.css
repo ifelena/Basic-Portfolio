@@ -1,5 +1,7 @@
 
-
+#content {
+	background-image: url("../../assets/images/verticalwaves.png")
+}
 
 .section2 {
 	display: block;
@@ -17,6 +19,7 @@
 	border-color: #dddddd;
 
 }
+
 
 
 .aside {
